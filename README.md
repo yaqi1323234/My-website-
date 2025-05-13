@@ -1,62 +1,42 @@
 # أكثر من 500 سؤال كروي : 
 <!DOCTYPE html>
-<html lang="ar">
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
-     crossorigin="anonymous"></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>أسئلة كروية</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
-        header {
-            background-color: #2d3e50;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            padding: 20px;
-        }
-        .level {
-            background-color: #2d3e50;
-            color: white;
-            padding: 10px;
-            margin: 20px 0;
-            text-align: center;
-        }
-        .question {
-            background-color: #e7eff6;
-            border: 1px solid #c8d3d9;
-            margin: 10px 0;
-            padding: 10px;
-        }
-        .answer {
-            background-color: #d0e3f1;
-            border: 1px solid #c8d3d9;
-            margin: 5px 0 15px 0;
-            padding: 10px;
-        }
-    </style>
-</head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
-     crossorigin="anonymous"></script>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>أسئلة كروية</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    crossorigin="anonymous"></script>
+</head>
 <body>
 
-<header>
-    <h1>أسئلة كروية</h1>
-    <p>أكثر من 100 سؤال وجواب في كرة القدم</p>
-</header>
+  <header>
+    <h1>أسئلة كروية ⚽</h1>
+    <p>اختبر معرفتك الكروية حسب مستواك!</p>
+  </header>
 
-<div class="container">
-    <!-- المستوى السهل -->
-    <div class="level">
-        <h2>المستوى السهل</h2>
-    </div>
+  <!-- Tabs for levels -->
+  <div class="tabs">
+    <button class="tab-button active" onclick="showTab('easy')">سهل</button>
+    <button class="tab-button" onclick="showTab('medium')">متوسط</button>
+    <button class="tab-button" onclick="showTab('hard')">صعب</button>
+  </div>
 
+  <!-- Ad Banner -->
+  <div class="ad-container">
+    <!-- إعلان AdSense -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
+         data-ad-slot="1234567890"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
   
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
