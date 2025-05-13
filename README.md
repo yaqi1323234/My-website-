@@ -7,8 +7,8 @@
   <title>أسئلة كروية</title>
   <link rel="stylesheet" href="style.css" />
   <!-- Google AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-    crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
+     crossorigin="anonymous"></script>
 </head>
 <body>
 
