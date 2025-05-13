@@ -59,6 +59,20 @@
      crossorigin="anonymous"></script>
      
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gw-3+1f-3d+2z"
+     data-ad-client="ca-pub-9566524892667875"
+     data-ad-slot="6638088164"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
     <div class="question">
         <p><strong>س: من هو اللاعب الذي فاز بأكبر عدد من جوائز الكرة الذهبية؟</strong></p>
         <div class="answer">ج: ليونيل ميسي</div>
