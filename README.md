@@ -55,6 +55,10 @@
         <h2>المستوى السهل</h2>
     </div>
 
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
+     crossorigin="anonymous"></script>
+     
+
     <div class="question">
         <p><strong>س: من هو اللاعب الذي فاز بأكبر عدد من جوائز الكرة الذهبية؟</strong></p>
         <div class="answer">ج: ليونيل ميسي</div>
