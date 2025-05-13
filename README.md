@@ -2,3 +2,85 @@
 Sports website 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9566524892667875"
      crossorigin="anonymous"></script>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>أسئلة كروية - أكثر من 500 سؤال وجواب في كرة القدم</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+      direction: rtl;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    .section {
+      margin: 40px 0;
+    }
+    .section h2 {
+      color: #2980b9;
+    }
+    .question {
+      background-color: #ecf0f1;
+      margin: 10px auto;
+      padding: 15px;
+      border-radius: 8px;
+      max-width: 600px;
+      text-align: right;
+    }
+    .answer {
+      color: #27ae60;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>أسئلة كروية</h1>
+  <p>أكثر من 500 سؤال وجواب في كرة القدم، مصنفة من السهل إلى الصعب.</p>
+
+  <div class="section">
+    <h2>المستوى السهل</h2>
+    <div class="question">
+      <strong>س: من هو اللاعب الذي فاز بأكبر عدد من جوائز الكرة الذهبية؟</strong>
+      <div class="answer">ج: ليونيل ميسي</div>
+    </div>
+    <div class="question">
+      <strong>س: ما اسم الفريق الذي يلقب بـ "الشياطين الحمر"؟</strong>
+      <div class="answer">ج: مانشستر يونايتد</div>
+    </div>
+    <!-- أضف المزيد من الأسئلة السهلة هنا -->
+  </div>
+
+  <div class="section">
+    <h2>المستوى المتوسط</h2>
+    <div class="question">
+      <strong>س: ما هو النادي الذي فاز بأول نسخة من دوري أبطال أوروبا؟</strong>
+      <div class="answer">ج: ريال مدريد</div>
+    </div>
+    <div class="question">
+      <strong>س: من هو هداف كأس العالم 2014؟</strong>
+      <div class="answer">ج: جيمس رودريغيز</div>
+    </div>
+    <!-- أضف المزيد من الأسئلة المتوسطة هنا -->
+  </div>
+
+  <div class="section">
+    <h2>المستوى الصعب</h2>
+    <div class="question">
+      <strong>س: من هو اللاعب الذي سجل أسرع هدف في تاريخ كأس العالم؟</strong>
+      <div class="answer">ج: هاكان شوكور (11 ثانية في 2002)</div>
+    </div>
+    <div class="question">
+      <strong>س: ما هو الفريق الذي فاز بكأس العالم 1930؟</strong>
+      <div class="answer">ج: أوروغواي</div>
+    </div>
+    <!-- أضف المزيد من الأسئلة الصعبة هنا -->
+  </div>
+</body>
+</html>
